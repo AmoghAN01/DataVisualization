@@ -12,4 +12,5 @@ This project focuses on analyzing hardware sales data to extract significant ins
 
 3]  SNCorpdashboard
 
+This is a PowerBI dashboard that Visualizes the Sales of SN Corportion it is an interactive dashboard which combines a variety of plots and charts to make understanding data very easy.The dashboard was cresated using a dataset I obtained during a course on PowerBI. 
 4]  Knime
